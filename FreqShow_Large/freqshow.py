@@ -39,7 +39,7 @@ import ui
 #SDR_SAMPLE_SIZE = 1024	# larger than the maximum display width.
 #SDR_SAMPLE_SIZE = 2048
 #SDR_SAMPLE_SIZE = 4096
-SDR_SAMPLE_SIZE = 8192  # This ithe default value to allow zooming the display to a 10kHz span in 320 pixels with a sample rate of 0.230 MHz.
+SDR_SAMPLE_SIZE = 8192  # This is the default value to allow zooming the display to a 10kHz span in 320 pixels with a sample rate of 0.230 MHz.
 #SDR_SAMPLE_SIZE = 16384				
 
 
